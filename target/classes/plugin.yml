@@ -1,0 +1,7 @@
+name: KulichiAPI
+version: '69.420'
+main: fun.aqurik.kulichiAPI.KulichiAPI
+api-version: '1.21'
+authors: [ Aqurik13 ]
+description: Йоуйоуйоу, супер крутой и эпичный плагин на куличи
+website: https://aqurik.fun
